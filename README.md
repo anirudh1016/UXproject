@@ -1,6 +1,5 @@
 # UXproject
 
-Read Me
 UX Project presentation demo to make audience aware of the advantages of version contro and how it can be utilized in their major
 
 Getting Started
